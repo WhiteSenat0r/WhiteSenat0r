@@ -11,4 +11,4 @@ I'm Davyd Melnychuk, also known as WhiteSenat0r. Welcome to my GitHub profile!
 
 📧 **Contact:** Feel free to reach out to me via email at davyd.melnychuk@gmail.com, [LinkedIn](https://www.linkedin.com/in/davyd-melnychuk-125023241) or [Telegram](https://t.me/whitesenator)!
 
-Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. 😊
+Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions. 😊
