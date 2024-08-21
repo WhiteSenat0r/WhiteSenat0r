@@ -3,7 +3,7 @@
 I'm Davyd Melnychuk, also known as WhiteSenat0r. Welcome to my GitHub profile!
 
 👨‍💻 **About Me:**
-- Software developer with expertise in .NET and basic knowledge in Angular.
+- Software engineer at Honeycomb Software with expertise in .NET and React.
 - Currently pursuing a degree in Computer Science at The National University of Ostroh Academy.
 - Passionate about creating innovative solutions and learning new technologies.
 
